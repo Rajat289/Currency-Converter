@@ -4,6 +4,7 @@ public class Currency {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
+        
         // Exchange rates
         double usdToEur = 0.92;
         double usdToInr = 82.75;
